@@ -1,12 +1,14 @@
 import './App.css';
+import './index.css';
+import NavBar from './components/NavBar';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Hi <code>src/App.js</code> and save to reload.
-        </p>
+        <NavBar />
+        <Hero />
       </header>
     </div>
   );

@@ -3,7 +3,7 @@ import Feature from "./Feature";
 
 export default function Features() {
     return (
-        <section className="bg-slate-50 p-8 text-center">
+        <section className="bg-slate-50 p-8 text-center" id="about">
             <h2 className="text-4xl font-medium mb-4">Who we are</h2>
             <p className="block max-w-lg mx-auto">We are a real estate company based in Nairobi, Kenya. We help our clients find their next homes. We offer services such as: </p>
             <section className="flex gap-4 justify-center my-10">

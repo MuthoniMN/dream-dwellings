@@ -1,3 +1,11 @@
 .App-header {
-  background: #00492C;
+  background: #398F72;
+}
+
+.search {
+  background: url('../public/img/green-interior-modern-interior-living-room-style-with-soft-sofa-green-wall-3d-rendering\ 1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
 }

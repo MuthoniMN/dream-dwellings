@@ -7,6 +7,7 @@ import Search from './components/Search';
 import Listings from './components/Listings';
 import Tours from './components/Tours';
 import ContactSection from './components/ContactSect';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Listings />
       <Tours />
       <ContactSection />
+      <Footer />
     </div>
   );
 }

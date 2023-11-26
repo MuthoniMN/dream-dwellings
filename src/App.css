@@ -3,9 +3,16 @@
 }
 
 .search {
-  background: url('../public/img/green-interior-modern-interior-living-room-style-with-soft-sofa-green-wall-3d-rendering\ 1.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../public/img/green-interior-modern-interior-living-room-style-with-soft-sofa-green-wall-3d-rendering\ 1.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   height: 80vh;
+}
+
+.contactSect {
+  background: linear-gradient(0deg, #398f727a, #398f7265), url(https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1200);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }

@@ -3,7 +3,7 @@ import Tour from "./Tour";
 
 export default function Tours() {
     return (
-        <section>
+        <section className="py-8">
             <h2 className="font-bold text-3xl text-center my-8">Get a Virtual Tour</h2>
             <p className="italic text-center">These are short snippets of virtual tours of our best properties</p>
             <section className="flex justify-center gap-5 p-5 flex-wrap">

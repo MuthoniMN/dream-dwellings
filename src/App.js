@@ -6,6 +6,7 @@ import Features from './components/Features';
 import Search from './components/Search';
 import Listings from './components/Listings';
 import Tours from './components/Tours';
+import ContactSection from './components/ContactSect';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Search />
       <Listings />
       <Tours />
+      <ContactSection />
     </div>
   );
 }

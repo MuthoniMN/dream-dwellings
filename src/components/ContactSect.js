@@ -2,7 +2,7 @@ import React from "react";
 
 export function ContactForm() {
     return (
-        <form className="bg-white mr-10 my-6 w-1/2 p-8 rounded-md">
+        <form className="bg-white lg:mr-10 my-6 lg:w-1/2 p-8 rounded-md sm:w-full mx-auto">
             <div className="my-4">
                 <label htmlFor="name">Name</label>
                 <input type="text" name="name" id="name" className="border-black border-2 w-full rounded-lg px-4 py-2" />

@@ -37,7 +37,7 @@ export function ContactDetails() {
 
 export default function ContactSection() {
     return (
-        <section className="flex justify-between items-center flex-wrap contactSect" >
+        <section className="flex justify-between items-center flex-wrap contactSect" id="contact">
             <ContactDetails />
             <ContactForm />
         </section>

@@ -5,7 +5,7 @@ const NavBar = () => {
             <img src="/img/dark-logo.png" alt="Dream Dwellings" className="width-24" />
             <ul className="lg:flex flex-row gap-4 list-none hidden">
                 <li>
-                    <a href="#contact">Home</a>
+                    <a href="/">Home</a>
                 </li>
                 <li>
                     <a href="#about">About Us</a>

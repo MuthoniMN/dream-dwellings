@@ -3,7 +3,7 @@ import Listing from "./Listing";
 
 export default function Listings() {
     return (
-        <section className='p-8 text-center '>
+        <section className='p-8 text-center ' id="home">
             <h2 className='text-3xl '>Available Properties</h2>
             <p className='italic'>These are our latest featured properties</p>
             <section className='flex flex-wrap gap-10 justify-center p-5 '>
